@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = "AIzaSyBVfO097yJainjZXVEiWQuSzCJtGNxH3XE"; 
+const GEMINI_API_KEY = "ADD Api key"; 
 let myChart = null;
 
 // UI Elements
